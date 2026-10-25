@@ -17,7 +17,7 @@ Data pipelines · AI automation · full-stack web — Berlin
 | **SunSync Hardware** | Solar-equipment site with a multi-step quote form and cost estimator | React · Vite · Tailwind · EmailJS | [sunsynchardware.com](https://sunsynchardware.com/) · [repo](https://github.com/mirzaramis/sunsync) |
 | **SkillDock HQ** | Marketing site | React | [skilldockhq.com](https://www.skilldockhq.com/) |
 | **Forte Gloves** | 44-product catalogue site | React | [fortegloves.com](https://www.fortegloves.com/) |
-| **MotoSolutions** | US motorcycle-helmet store | React | — |
+| **MotoSolutions** | US motorcycle-helmet store | React | [motosolutions.store](https://motosolutions.store/) |
 | **MedBot AI** | Symptom-survey chatbot deployed for a US clinic: structures patient input into a report for senior doctors and escalates serious cases (final-year project) | Python · React | private |
 
 ## Data & automation
