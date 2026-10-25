@@ -1,6 +1,6 @@
 # Mirza Ramis Baig
 
-Data Science graduate (FAST-NUCES, 2025) · M.Sc. Data Analytics & AI, BSBI Berlin (2026–2027)
+Data Science graduate (FAST-NUCES, 2025) · M.Sc. Data Analytics, BSBI Berlin (2026–2027)
 Data pipelines · AI automation · full-stack web — Berlin
 
 [LinkedIn](https://www.linkedin.com/in/mirza-ramis-45837a301/) · mirzaramisb@gmail.com
