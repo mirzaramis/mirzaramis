@@ -27,13 +27,12 @@ Data pipelines · AI automation · full-stack web — Berlin
 | [**Chess Performance Analytics Pipeline**](https://github.com/mirzaramis/chess_analytics_bot) | Ingests a chess.com account's full game history (2,500+ games), parses PGN, resolves opponent countries, runs per-country t-tests (Bonferroni) and Spearman fatigue analysis; charts, Excel tables and README refresh daily via GitHub Actions | Python · pandas · SciPy · GitHub Actions |
 | [**Currency ETL Pipeline**](https://github.com/mirzaramis/currency-etl) | Daily USD→EUR/GBP/PKR ETL into SQLite with retry logic, explicit missing-data handling and >1 % volatility alerts; runs unattended on a GitHub Actions cron | Python · SQLite · GitHub Actions |
 | [**Chess engine**](https://github.com/mirzaramis/AIprojs) | Terminal chess with a Minimax + alpha-beta AI opponent (bachelor's AI coursework) | Python |
-| **AI outbound CRM** (employer project, Maxtech Solutions) | Lead sourcing → Python/Selenium cleaning → GPT-written outreach → ElevenLabs voice follow-up → GoHighLevel pipelines, orchestrated in n8n. Public demo repo with scrubbed workflow coming. | n8n · OpenAI · ElevenLabs · GoHighLevel |
+| [**Lead Automation Demo**](https://github.com/mirzaramis/lead-automation-demo) (sanitised from an employer project) | Two n8n workflows: CRM webhook → lead sourcing (Sales Navigator via Phantombuster, or Apollo search with Postgres dedupe) → Apollo enrichment → GPT-written four-line outreach → GoHighLevel pipeline. All credentials and lead data removed. | n8n · OpenAI · Apollo · Phantombuster · PostgreSQL · GoHighLevel |
 | **Supplier-inventory pipeline + Power BI** (employer project, Maxsol) | Python pipeline ingesting daily listings from 18+ suppliers' emails, classified by vendor and published to a filterable index on a daily schedule; Power BI dashboard on top used for stock decisions | Python · Power BI |
 
 ## In progress
 
 - **PadelMeUp** — court-booking platform with an owner analytics dashboard (React/Vite)
-- **Lead-automation demo** — reproducible n8n workflow + architecture diagram for the CRM pipeline above, no client data
 
 ## Skills
 
