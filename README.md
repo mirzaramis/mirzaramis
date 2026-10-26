@@ -7,12 +7,12 @@ Data pipelines · AI automation · full-stack web — Berlin
 
 ---
 
-## Live client work
+## Live projects
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| **DT Supply** | ~1 M-product e-commerce catalogue for a US IT-hardware distributor — PostgreSQL data model, resilient Python ingestion scraper, bulk-upload microservice | React · .NET · PostgreSQL · Python | [dtsupply.us](https://dtsupply.us/) |
-| **PinServex** | IT-hardware storefront, ~15k-product Azure SQL catalogue; built and deployed as one unit to Azure App Service by GitHub Actions on every push | React · ASP.NET Core · Azure SQL · GitHub Actions | [pinservex.com](https://pinservex.com/) · [repo](https://github.com/mirzaramis/pinservex) |
+| **DT Supply** (at Maxtech Solutions) | ~1 M-product e-commerce catalogue for a US IT-hardware distributor — PostgreSQL data model, resilient Python ingestion scraper, bulk-upload microservice | React · .NET · PostgreSQL · Python | [dtsupply.us](https://dtsupply.us/) |
+| **PinServex** (at Maxtech Solutions) | IT-hardware storefront, ~15k-product Azure SQL catalogue; built and deployed as one unit to Azure App Service by GitHub Actions on every push | React · ASP.NET Core · Azure SQL · GitHub Actions | [pinservex.com](https://pinservex.com/) · [repo](https://github.com/mirzaramis/pinservex) |
 | **Araaf** | Site for an AI-automation agency with CRM lead capture wired into GoHighLevel | React · GoHighLevel | [araaf.us](https://araaf.us/) |
 | **SunSync Hardware** | Solar-equipment site with a multi-step quote form and cost estimator | React · Vite · Tailwind · EmailJS | [sunsynchardware.com](https://sunsynchardware.com/) · [repo](https://github.com/mirzaramis/sunsync) |
 | **SkillDock HQ** | Marketing site | React | [skilldockhq.com](https://www.skilldockhq.com/) |
